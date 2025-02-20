@@ -10,7 +10,7 @@ abstract class MetodoPago {
         private String opcionMastercard = "MASTERCAD";
         private String opcionMaestro = "MAESTRO";
 
-        
+
         @Override
         public void procesarPago(double importe) {
 
